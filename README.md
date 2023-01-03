@@ -1,5 +1,4 @@
-# Your Project's Title...
-Your project's description...
+# AEM Franklin Playground
 
 ## Environments
 - Preview: https://main--franklin-playground--stefanseifert.hlx.page/
